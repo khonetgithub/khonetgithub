@@ -35,3 +35,8 @@
 ### 📦 Libraries & Tools
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+## 📫 Contact
+📧 k_honet@naver.com
