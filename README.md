@@ -40,3 +40,15 @@
 
 ## 📫 Contact
 📧 k_honet@naver.com
+
+---
+
+## 🚀 Projects
+
+### [Moongsan (뭉산)](https://github.com/100-hours-a-week/14-YG-BE.git)
+공동구매 주최 및 참여 플랫폼  
+
+---
+
+### [Babpat (밥팟)](https://github.com/KakaotechHKT)
+선호 메뉴 기반 식사 매칭 서비스
